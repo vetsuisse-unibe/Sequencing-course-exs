@@ -1,0 +1,7 @@
+*.fastq.gz
+*.zip
+*_fastqc/
+*fastqc.html
+*fastqc.zip
+*.out
+*.err

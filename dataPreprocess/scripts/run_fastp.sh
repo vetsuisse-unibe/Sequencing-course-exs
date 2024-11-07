@@ -10,4 +10,4 @@
 module add UHTS/Quality_control/fastp/0.12.5
 
 cd ../data
-fastp -w 4 -q 15 -z 5 -l 50     -i SRR1027171_1.fastq.gz     -I SRR1027171_2.fastq.gz     -o SRR1027171_1.clean.fq.gz     -O SRR1027171_2.clean.fq.gz
+fastp -w 4 -q 20 -z 5 -l 60     -i SRR1027171_1.fastq.gz     -I SRR1027171_2.fastq.gz     -o SRR1027171_1.clean.fq.gz     -O SRR1027171_2.clean.fq.gz
